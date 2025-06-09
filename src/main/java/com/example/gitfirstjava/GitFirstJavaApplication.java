@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitFirstJavaApplication {
 
     public static void main(String[] args) {
+
+        System.out.println("sdjk");
         SpringApplication.run(GitFirstJavaApplication.class, args);
     }
 
